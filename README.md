@@ -18,11 +18,13 @@ computer screen-saver app, it will restart the countdown clock.
 ## Installation
 
 1. Browse to My SmartApps (https://graph.api.smartthings.com/ide/apps)
-1. Create a New SmartApp with the following details
+1. Create a [New SmartApp] with the following details
     * Author: http://github.com/smartthings-users/smartapp.off-without-motion
     * Name: Off Without Motion
     * Description: Turn off switch(es) after there has been no motion for x minutes.
+    * Icon Small: http://s3.amazonaws.com/smartapp-icons/Meta/light_motion-outlet.png
+    * Icon Big: http://s3.amazonaws.com/smartapp-icons/Meta/light_motion-outlet%402x.png
 
 1. Copy and paste the code into the IDE.
-1. Save
-1. Publish -> For Me
+1. [Save]
+1. [Publish] -> For Me
