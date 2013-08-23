@@ -38,7 +38,7 @@ preferences
 
 def installed()
 {
-    log.debug "Off Without Motion installed. (URL: http://www.github.com/smartthings-users/smartapp.off-without-motion)
+    log.debug "Off Without Motion installed. (URL: http://www.github.com/smartthings-users/smartapp.off-without-motion)"
     initialize()
 }
 
